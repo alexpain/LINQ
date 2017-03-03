@@ -1,0 +1,5 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin12\bin\Debug\LINQBegin12.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin12\bin\Debug\LINQBegin12.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin12\bin\Debug\LINQBegin12.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin12\obj\Debug\LINQBegin12.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin12\obj\Debug\LINQBegin12.pdb

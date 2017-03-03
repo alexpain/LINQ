@@ -1,0 +1,6 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\bin\Debug\LENQBegin.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\bin\Debug\LENQBegin.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\bin\Debug\LENQBegin.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\obj\Debug\LENQBegin2.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\obj\Debug\LENQBegin.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LENQBegin\obj\Debug\LENQBegin.pdb

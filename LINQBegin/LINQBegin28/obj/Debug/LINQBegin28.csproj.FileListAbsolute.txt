@@ -1,0 +1,7 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin28\bin\Debug\LINQBegin28.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\bin\Debug\LINQBegin28.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\bin\Debug\LINQBegin28.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\bin\Debug\LINQBegin28.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\obj\Debug\LINQBegin28.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\obj\Debug\LINQBegin28.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQBegin\LINQBegin28\obj\Debug\LINQBegin28.pdb

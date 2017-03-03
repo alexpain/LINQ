@@ -1,0 +1,6 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\bin\Debug\LINQBegin4.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\bin\Debug\LINQBegin4.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\bin\Debug\LINQBegin4.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\obj\Debug\LINQBegin4.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\obj\Debug\LINQBegin4.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LENQBegin\LINQBegin4\obj\Debug\LINQBegin4.pdb
