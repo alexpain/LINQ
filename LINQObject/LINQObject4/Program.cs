@@ -1,16 +1,18 @@
 ﻿/*
-    LinqObj2. Исходная последовательность содержит сведения о
+    LinqObj4. Исходная последовательность содержит сведения о
     клиентах фитнес-центра. Каждый элемент последовательно-
     сти включает следующие целочисленные поля:
-        <Номер месяца> <Год> <Код клиента>
-        <Продолжительность занятий (в часах)>
-    Найти элемент последовательности с максимальной продол-
-    жительностью занятий. Вывести эту продолжительность, а
-    также соответствующие ей год и номер месяца (в указанном
-    порядке на той же строке). Если имеется несколько элемен-
-    тов с максимальной продолжительностью, то вывести дан-
-    ные, соответствующие самой поздней дате.
+        <Год> <Номер месяца> <Продолжительность
+        занятий (в часах)> <Код клиента>
+    Для каждого клиента, присутствующего в исходных данных,
+    определить суммарную продолжительность занятий в тече-
+    ние всех лет (вначале выводить суммарную продолжитель-
+    ность, затем код клиента). Сведения о каждом клиенте выво-
+    дить на новой строке и упорядочивать по убыванию суммар-
+    ной продолжительности, а при их равенстве — по возраста-
+    нию кода клиента. 
 */
+
 
 using System;
 using System.Collections.Generic;
@@ -19,8 +21,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace LINQObject
+
+namespace LINQObject4
 {
+
     public class Client
     {
         public int numberMonth { get; set; }
@@ -31,12 +35,8 @@ namespace LINQObject
 
     class Program
     {
-
         static void Main(string[] args)
         {
-
-
-
             var clients = new List<Client>();
 
             FileStream file = new FileStream(@"..\..\..\Client.txt", FileMode.Open, FileAccess.ReadWrite);
@@ -54,21 +54,18 @@ namespace LINQObject
                 });
             }
 
-            int minTimeTraining = clients.Max(client => client.durationTraining);
-            var selectClient = clients.Where(client => client.durationTraining == minTimeTraining);
-            foreach (var client in selectClient)
+            var groupByClient = clients.GroupBy(client => client.customerId)
+                                     .Select(groupClient => {
+                                         return groupClient.Sum(client => client.durationTraining) + " " + groupClient.Key;
+                                     });
+            foreach (var item in groupByClient)
             {
-                Console.WriteLine("ID = {0}, YEAR = {1}, MONTH = {2}, TIME TRAINING = {3}",
-                                    client.customerId, client.year, client.numberMonth, client.durationTraining);
+                Console.WriteLine(item);
             }
 
-
             file.Close();
+            
             Console.ReadKey();
-
-
-
-
         }
     }
 }
