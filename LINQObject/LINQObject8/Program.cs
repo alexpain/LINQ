@@ -60,7 +60,7 @@ namespace LINQObject8
 
             try
             {
-                var yearAndSum = clients.Where(client => client.customerId == K)
+                var monthAndSum = clients.Where(client => client.customerId == K)
                                      .GroupBy(client => client.numberMonth)
                                      .Select(groupClient => new
                                      {
@@ -68,11 +68,11 @@ namespace LINQObject8
                                          sumMonthTraining = groupClient.Sum(client => client.durationTraining),
                                          
                                      });
-                var minTimeTraining = yearAndSum.Min(client => client.sumMonthTraining);
+                var minTimeTraining = monthAndSum.Min(client => client.sumMonthTraining);
                 var year = from x in clients
                            where (x.durationTraining == minTimeTraining) && (x.customerId == K)
-                           select x.year;
-                foreach (var item in yearAndSum)
+                           select x;
+                foreach (var item in monthAndSum)
                 {
                     Console.WriteLine("{0} {1} {2} {3}",item.sumMonthTraining, item.month, minTimeTraining, year);
                 }

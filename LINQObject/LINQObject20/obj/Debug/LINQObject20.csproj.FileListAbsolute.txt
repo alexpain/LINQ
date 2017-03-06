@@ -1,0 +1,6 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\bin\Debug\LINQObject20.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\bin\Debug\LINQObject20.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\bin\Debug\LINQObject20.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\obj\Debug\LINQObject20.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\obj\Debug\LINQObject20.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject20\obj\Debug\LINQObject20.pdb

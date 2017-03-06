@@ -1,0 +1,6 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\bin\Debug\LINQObject10.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\bin\Debug\LINQObject10.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\bin\Debug\LINQObject10.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\obj\Debug\LINQObject10.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\obj\Debug\LINQObject10.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject10\obj\Debug\LINQObject10.pdb

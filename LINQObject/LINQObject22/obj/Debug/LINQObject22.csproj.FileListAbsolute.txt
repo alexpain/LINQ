@@ -1,0 +1,6 @@
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\bin\Debug\LINQObject22.exe.config
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\bin\Debug\LINQObject22.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\bin\Debug\LINQObject22.pdb
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\obj\Debug\LINQObject22.csprojResolveAssemblyReference.cache
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\obj\Debug\LINQObject22.exe
+C:\Users\alexp\OneDrive\Documents\andersen\LINQ\LINQObject\LINQObject22\obj\Debug\LINQObject22.pdb
